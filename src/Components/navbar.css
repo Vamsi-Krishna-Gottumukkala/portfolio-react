@@ -1,0 +1,27 @@
+aside{
+    max-width: 5%;
+}
+
+aside img{
+    padding: 1rem 0 0 0.6rem;
+}
+
+
+
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.links a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ffffff;
+    padding-top: 2rem;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
