@@ -2,3 +2,17 @@
   text-align: center;
   display: flex;
 }
+
+.Home{
+  max-height: 100vh;
+}
+
+::-webkit-scrollbar{
+  width: .5rem;
+  background: #1f242d;
+}
+
+::-webkit-scrollbar-thumb{
+  background: #3c414b;
+  border-radius: 30px;
+}

@@ -1,13 +1,12 @@
 aside{
     max-width: 5%;
+    position: fixed;
+    max-height: 100vh;
 }
 
 aside img{
     padding: 1rem 0 0 0.6rem;
 }
-
-
-
 
 .links{
     display: flex;
