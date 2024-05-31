@@ -11,7 +11,7 @@ function Home() {
         </div>
         <div className="hright">
             <div className="mg">
-                <img src="stock.jpg" alt="photo-jpg" width="620px" className='ig'/>
+                <img src="stock.jpg" alt="stck" width="620px" className='ig'/>
             </div>
         </div>
     </div>
