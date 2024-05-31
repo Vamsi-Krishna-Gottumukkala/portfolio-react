@@ -1,0 +1,43 @@
+.amain{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 12rem;
+}
+
+.my_photo{
+    border-radius: 30px;
+}
+
+.aright{
+    margin-left: 8rem;
+}
+
+.abtme{
+    font-size: 5.5rem;
+}
+
+.mtr{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.about{
+    text-align: left;
+    width: 730px;
+    font-size: 1.2rem;
+}
+
+.resume{
+    background-color: #04ecfc;
+    padding: .5rem 1rem;
+    font-size: 1.5rem;
+    border-radius: 50px;
+}
+
+.resume a{
+    text-decoration: none;
+    color: #1f242d;
+}
