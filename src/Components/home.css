@@ -1,8 +1,7 @@
 .hmain{
-    max-height: 100vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
-    margin: 18rem 0 30rem 0;
 }
 
 .hleft{
