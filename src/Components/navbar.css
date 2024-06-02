@@ -16,7 +16,7 @@ aside img{
     text-decoration: none;
 }
 
-.links .al{
+.links a{
     text-transform: uppercase;
     text-decoration: none;
     color: #ffffff;
@@ -24,4 +24,8 @@ aside img{
     writing-mode: vertical-lr;
     text-orientation: upright;
     cursor: pointer;
+}
+
+.sections .active{
+    color: #04ecfc;
 }
