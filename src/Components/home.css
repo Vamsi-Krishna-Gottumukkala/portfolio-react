@@ -1,14 +1,15 @@
 .hmain{
     min-height: 100vh;
+    min-width: 95%;
+    margin-left: 12rem;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .hleft{
-    margin-left: 12rem;
     font-size: 3rem;
     text-align: left;
-    margin-right: 8rem;
 }
 
 .hleft .name{
