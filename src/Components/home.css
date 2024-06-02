@@ -10,6 +10,7 @@
 .hleft{
     font-size: 3rem;
     text-align: left;
+    min-width: 60%;
 }
 
 .hleft .name{
@@ -22,9 +23,9 @@ span{
     color: #04ecfc;
 }
 
-.hright{
+/* .hright{
     margin-left: 8rem;
-}
+} */
 
 .ig{
     border-radius: 30px;
