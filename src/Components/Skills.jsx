@@ -3,7 +3,7 @@ import './skills.css'
 
 function Skills() {
   return (
-    <div className='smain'>
+    <div className='smain' id='skills'>
       <div className="ido">
         What I do <br /><span>Skills</span>
       </div>

@@ -16,11 +16,12 @@ aside img{
     text-decoration: none;
 }
 
-.links a{
+.links .al{
     text-transform: uppercase;
     text-decoration: none;
     color: #ffffff;
     padding-top: 2rem;
     writing-mode: vertical-lr;
     text-orientation: upright;
+    cursor: pointer;
 }
