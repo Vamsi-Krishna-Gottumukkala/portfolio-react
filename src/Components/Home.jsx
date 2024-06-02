@@ -26,7 +26,7 @@ function Home() {
         <div className="hleft">
             <div className="hello">Hello, it's Me</div>
             <div className="name">Vamsi Krishna</div>
-            <div className="intro">I am a <span ref={multitext}>Frontend Developer</span></div>
+            <div className="intro">I am a <span ref={multitext}></span></div>
         </div>
         <div className="hright">
             <div className="mg">
